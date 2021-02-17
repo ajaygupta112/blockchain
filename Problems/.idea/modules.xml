@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Compression algorithm/Compression algorithm.iml" filepath="$PROJECT_DIR$/Compression algorithm/Compression algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Convert a date/Convert a date.iml" filepath="$PROJECT_DIR$/Convert a date/Convert a date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Output the list's elements/Output the list's elements.iml" filepath="$PROJECT_DIR$/Output the list's elements/Output the list's elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phone Book/Phone Book.iml" filepath="$PROJECT_DIR$/Phone Book/Phone Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Problems.iml" filepath="$PROJECT_DIR$/.idea/Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rehashing/Rehashing.iml" filepath="$PROJECT_DIR$/Rehashing/Rehashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Removing/Removing.iml" filepath="$PROJECT_DIR$/Removing/Removing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The index of the first max in an array/The index of the first max in an array.iml" filepath="$PROJECT_DIR$/The index of the first max in an array/The index of the first max in an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The percentage of G and C characters/The percentage of G and C characters.iml" filepath="$PROJECT_DIR$/The percentage of G and C characters/The percentage of G and C characters.iml" />
+    </modules>
+  </component>
+</project>
