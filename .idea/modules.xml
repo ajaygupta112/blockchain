@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain1.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain1.Blockchain-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain1.Blockchain-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain1.Blockchain-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain1.Blockchain-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain1.Blockchain-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/task/Blockchain1.Blockchain-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Compression algorithm/Blockchain1.Problems-Compression_algorithm.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Compression algorithm/Blockchain1.Problems-Compression_algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Compression algorithm/Blockchain1.Problems-Compression_algorithm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Compression algorithm/Blockchain1.Problems-Compression_algorithm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Compression algorithm/Blockchain1.Problems-Compression_algorithm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Compression algorithm/Blockchain1.Problems-Compression_algorithm.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Blockchain1.Problems-Convert_a_date.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Blockchain1.Problems-Convert_a_date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Blockchain1.Problems-Convert_a_date.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Blockchain1.Problems-Convert_a_date.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Blockchain1.Problems-Convert_a_date.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Convert a date/Blockchain1.Problems-Convert_a_date.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Blockchain1.Problems-Output_the_list's_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Blockchain1.Problems-Output_the_list's_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Blockchain1.Problems-Output_the_list's_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Blockchain1.Problems-Output_the_list's_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Blockchain1.Problems-Output_the_list's_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Output the list's elements/Blockchain1.Problems-Output_the_list's_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Blockchain1.Problems-Phone_Book.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Blockchain1.Problems-Phone_Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Blockchain1.Problems-Phone_Book.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Blockchain1.Problems-Phone_Book.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Blockchain1.Problems-Phone_Book.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Phone Book/Blockchain1.Problems-Phone_Book.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Blockchain1.Problems-Rehashing.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Blockchain1.Problems-Rehashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Blockchain1.Problems-Rehashing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Blockchain1.Problems-Rehashing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Blockchain1.Problems-Rehashing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Rehashing/Blockchain1.Problems-Rehashing.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing/Blockchain1.Problems-Removing.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing/Blockchain1.Problems-Removing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing/Blockchain1.Problems-Removing.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing/Blockchain1.Problems-Removing.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Removing/Blockchain1.Problems-Removing.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Removing/Blockchain1.Problems-Removing.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Blockchain1.Problems-The_index_of_the_first_max_in_an_array.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Blockchain1.Problems-The_index_of_the_first_max_in_an_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Blockchain1.Problems-The_index_of_the_first_max_in_an_array.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Blockchain1.Problems-The_index_of_the_first_max_in_an_array.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Blockchain1.Problems-The_index_of_the_first_max_in_an_array.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of the first max in an array/Blockchain1.Problems-The_index_of_the_first_max_in_an_array.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Blockchain1.Problems-The_percentage_of_G_and_C_characters.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Blockchain1.Problems-The_percentage_of_G_and_C_characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Blockchain1.Problems-The_percentage_of_G_and_C_characters.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Blockchain1.Problems-The_percentage_of_G_and_C_characters.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Blockchain1.Problems-The_percentage_of_G_and_C_characters.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The percentage of G and C characters/Blockchain1.Problems-The_percentage_of_G_and_C_characters.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain1.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain1.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain1.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain1.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain1.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain1.util.test.iml" />
+    </modules>
+  </component>
+</project>
