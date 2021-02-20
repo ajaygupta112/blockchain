@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Blockchain/task" />
             <option value="$PROJECT_DIR$/Problems/Account Service" />
+            <option value="$PROJECT_DIR$/Problems/Burgers" />
             <option value="$PROJECT_DIR$/Problems/Clock factory" />
             <option value="$PROJECT_DIR$/Problems/Clocks" />
             <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
@@ -20,10 +21,12 @@
             <option value="$PROJECT_DIR$/Problems/Convert a date" />
             <option value="$PROJECT_DIR$/Problems/Find mistake" />
             <option value="$PROJECT_DIR$/Problems/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Problems/Laptop factory" />
             <option value="$PROJECT_DIR$/Problems/Motor static factory" />
             <option value="$PROJECT_DIR$/Problems/Motors" />
             <option value="$PROJECT_DIR$/Problems/Output the list's elements" />
             <option value="$PROJECT_DIR$/Problems/Phone Book" />
+            <option value="$PROJECT_DIR$/Problems/Phone factory" />
             <option value="$PROJECT_DIR$/Problems/Publication and its subclasses" />
             <option value="$PROJECT_DIR$/Problems/Rehashing" />
             <option value="$PROJECT_DIR$/Problems/Removing" />
