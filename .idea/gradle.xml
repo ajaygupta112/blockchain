@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Blockchain/task" />
             <option value="$PROJECT_DIR$/Problems/Account Service" />
+            <option value="$PROJECT_DIR$/Problems/Adding values" />
             <option value="$PROJECT_DIR$/Problems/Are siblings" />
             <option value="$PROJECT_DIR$/Problems/Burgers" />
             <option value="$PROJECT_DIR$/Problems/Clock factory" />
@@ -21,6 +22,7 @@
             <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
             <option value="$PROJECT_DIR$/Problems/Convert a date" />
             <option value="$PROJECT_DIR$/Problems/Find mistake" />
+            <option value="$PROJECT_DIR$/Problems/Get first and last elements" />
             <option value="$PROJECT_DIR$/Problems/IntBinaryOperation" />
             <option value="$PROJECT_DIR$/Problems/Laptop factory" />
             <option value="$PROJECT_DIR$/Problems/Motor static factory" />
@@ -34,6 +36,7 @@
             <option value="$PROJECT_DIR$/Problems/Robot" />
             <option value="$PROJECT_DIR$/Problems/Robot factory" />
             <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Problems/Sorting numbers" />
             <option value="$PROJECT_DIR$/Problems/Static factory methods for Time" />
             <option value="$PROJECT_DIR$/Problems/Template Method" />
             <option value="$PROJECT_DIR$/Problems/Template Method (1)" />
